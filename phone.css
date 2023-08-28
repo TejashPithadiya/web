@@ -1,0 +1,17 @@
+
+
+.home #h2 {
+    display: none;
+}
+
+.home #h1 {
+    display: none;
+ 
+}
+
+
+.center{
+    margin-top: 5vh;
+    justify-content: center;
+    flex-direction: column;
+}
